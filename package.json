@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "writes hello world to text file using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryamt08/helloworld.git"
+  },
+  "author": "Maryam Tahir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryamt08/helloworld/issues"
+  },
+  "homepage": "https://github.com/Maryamt08/helloworld#readme"
+}
